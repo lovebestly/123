@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="拓扑的增加删除.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="dijkastra.cpp">
+    <ClCompile Include="原拓扑的输入输出.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
